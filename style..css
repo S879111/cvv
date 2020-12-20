@@ -1,0 +1,122 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-transform: capitalize;
+}
+
+.container{
+	max-width: 900px;
+	margin: 0 auto;
+	background-color:#E4F9F5;
+	padding: 20px;
+	
+	
+}
+.proifile-image{
+	width: 100px;
+	height: 100px;
+	border: 1px solid white;
+	border-radius: 50%;
+	float: left;
+	
+
+}
+.header-bio{
+	float: left;
+	padding: 30px;
+	color: gray;
+
+	
+}
+
+.contact-bio{
+	float: right;
+	padding: 30px;
+	
+}
+
+.contact-bio a{
+	text-decoration: none;
+	color: gray;
+}
+.contact-bio a:hover{
+	background-color: orange;
+	text-decoration: underline;
+}
+.clear-both{
+	clear: both;
+}
+
+hr{
+	border: 3px solid black;
+	width: 100%;
+	margin: 20px 0;
+	border-bottom: none;
+}
+
+/*header section end*/
+/*header section end*/
+/*header section end*/
+.div-left{
+	float: left;
+	width: 30%;
+
+}
+.div-right{
+	float: right;
+	width: 70%;
+}
+.common-hr{
+	border: 1px solid black;
+	width: 100%;
+	border-bottom: none;
+	margin: 20px auto;
+}
+.education{
+	float: left;
+}
+.edu-tampleate-right{
+	float: right;
+	width: 45%;
+}
+.edu-tampleate-left{
+	float: left;
+	width: 100%;
+}
+
+/*education part end*/
+/*footer part end*/
+
+ul{
+	background: black;
+	text-align: center;
+	width: 100%;
+	
+	
+}
+ul a{
+	color: white;
+	text-decoration: none;
+	padding: 12px 16px;
+/*	display: block;*/
+	
+	
+}
+
+
+
+
+.redd4{
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
